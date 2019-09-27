@@ -1,5 +1,10 @@
 # Release Notes
 
+## v0.0.13 (2019-09-27)
+
+### Fixed
+- Support Laravel 6.x
+ 
 ## v0.0.13 (2017-02-04)
 
 ### Fixed
