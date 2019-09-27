@@ -14,10 +14,21 @@ providing some convenient code-generation capabilities.
 ## How does it work?
 
 This package expects that you are using Laravel 5.1 or above.
-You will need to import the `reliese/laravel` package via composer:
+You will need to import the `gorbas/laravel_model_scaffolding` package via composer:
+
+Include the following repositoy in your composer.json
+
+```
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gorbas/laravel_model_scaffolding"
+        }
+    ]
+```
 
 ```shell
-composer require reliese/laravel
+composer require gorbas/laravel_model_scaffolding
 ```
 
 ### Configuration
